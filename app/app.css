@@ -15,5 +15,5 @@ body {
 }
 
 .nav-link {
-  @apply p-2 font-bold;
+  @apply p-2 font-bold hover:bg-slate-50;
 }

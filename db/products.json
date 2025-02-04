@@ -6,8 +6,8 @@
     "price": 130,
     "sizes": [7, 8, 9, 10, 11, 12],
     "colors": ["Black", "White", "Blue"],
-    "image": "pegasus-40.jpg",
-    "category": "Running",
+    "images": ["air-zoom-pegasus-40.jpg"],
+    "tags": ["Running"],
     "description": "A lightweight running shoe designed for comfort and speed."
   },
   {
@@ -17,8 +17,8 @@
     "price": 180,
     "sizes": [7, 8, 9, 10, 11],
     "colors": ["Black", "Gray"],
-    "image": "ultraboost-22.jpg",
-    "category": "Running",
+    "images": ["ultraboost-22-1.jpg", "ultraboost-22-2.jpg"],
+    "tags": ["Running", "Athleisure"],
     "description": "Boost cushioning for ultimate energy return and comfort."
   },
   {
@@ -28,8 +28,8 @@
     "price": 160,
     "sizes": [6, 7, 8, 9, 10, 11, 12],
     "colors": ["Blue", "White", "Red"],
-    "image": "gel-kayano-29.jpg",
-    "category": "Running",
+    "images": ["gel-kayano-29-1.jpg", "gel-kayano-29-2.jpg"],
+    "tags": ["Running", "Athleisure"],
     "description": "Premium stability running shoe with advanced support."
   },
   {
@@ -39,8 +39,8 @@
     "price": 60,
     "sizes": [5, 6, 7, 8, 9, 10, 11, 12],
     "colors": ["Black", "White", "Red", "Blue"],
-    "image": "chuck-taylor.jpg",
-    "category": "Casual",
+    "images": ["chuck-taylor-1.jpg", "chuck-taylor-2.jpg"],
+    "tags": ["Casual", "Classic"],
     "description": "Classic high-top sneaker with timeless style."
   },
   {
@@ -50,8 +50,8 @@
     "price": 75,
     "sizes": [6, 7, 8, 9, 10, 11, 12],
     "colors": ["Black", "White", "Gray"],
-    "image": "old-skool.jpg",
-    "category": "Casual",
+    "images": ["old-skool-1.jpg", "old-skool-2.jpg"],
+    "tags": ["Casual", "Classic"],
     "description": "Iconic skate shoe with a durable canvas and suede upper."
   },
   {
@@ -61,8 +61,8 @@
     "price": 110,
     "sizes": [6, 7, 8, 9, 10, 11, 12, 13],
     "colors": ["White", "Black", "Blue"],
-    "image": "air-force-1.jpg",
-    "category": "Casual",
+    "images": ["air-force-1-1.jpg", "air-force-1-2.jpg"],
+    "tags": ["Casual", "Classic"],
     "description": "Legendary low-top sneaker with a clean and classic design."
   },
   {
@@ -72,8 +72,8 @@
     "price": 220,
     "sizes": [7, 8, 9, 10, 11, 12],
     "colors": ["Beige", "Black", "Gray"],
-    "image": "yeezy-boost-350.jpg",
-    "category": "Casual",
+    "images": ["yeezy-boost-350-1.jpg", "yeezy-boost-350-2.jpg"],
+    "tags": ["Casual", "Iconic", "Collab"],
     "description": "Signature Kanye West design with Primeknit upper and Boost cushioning."
   }
 ]
